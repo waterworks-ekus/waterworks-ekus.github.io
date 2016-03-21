@@ -17,7 +17,6 @@
 		}
 	</style>
 	<!--MANIFEST-->
-	<script>document.write('<script src="http://' + (location.host || '${1:localhost}').split(':')[0] + ':${2:35729}/livereload.js?snipver=1"></' + 'script>')</script>
 	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
@@ -151,21 +150,6 @@
 	<script src="./libraries/jquery-2.1.1.min.js"></script>
 	<script src="./js/materialize.js"></script>
 	<script src="./js/init.js"></script>
-	<script>
-		$(document).ready(function () {
-			$('.slider').slider({
-				full_width: true,
-				height: 800
-			});
-			$(".dropdown-button").dropdown();
-			$('select').material_select();
-			$('nav').pushpin({
-				top: 0,
-				offset: 0,
-			});
-			$('input#input_text, textarea#textarea1').characterCounter();
-		});
-	</script>
 </body>
 
 </html>
