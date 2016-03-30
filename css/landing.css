@@ -15,7 +15,7 @@
     left: 0;
     width: 50%;
     background-color: rgba(0, 0, 0, 0.64);
-    padding-left: 2.5% !important;
+    padding-left: 2.0% !important;
 }
 
 #landing-section1 h1 {
@@ -36,13 +36,18 @@
     font-size: 1.4em
 }
 i.large{
-    padding:10px;
+    padding:15px;
 }
 #landing-section3{
     
     background: url(../images/laptop.png) right bottom no-repeat;
     background-size: 600px;
-    background-color: #ebebeb;
+    background-color: #f4f4f4;
+    border-bottom-style: solid;
+    border-color: #e2e0e0;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
     
 }
 
