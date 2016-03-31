@@ -30,7 +30,7 @@
     text-shadow: 0px 2px 3px black;
 }
 
-#landing-btn {
+#landing-btn,#landing-btn2 {
     background-color: #FFD54F;
     color: black;
     font-size: 1.4em
@@ -39,7 +39,7 @@ i.large{
     padding:15px;
 	max-width: 200px;
 }
-#landing-section3{
+#landing-section3,#landing-section5{
     
     background: url(../images/laptop.png) right bottom no-repeat;
     background-size: 600px;
@@ -50,6 +50,9 @@ i.large{
     border-bottom-width: 1px;
     border-top-width: 1px;
     
+}
+#landing-section5{
+	background-image: none;
 }
 
 
