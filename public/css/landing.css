@@ -1,3 +1,10 @@
+.main-logo {
+    height: 80px;
+    top: -10px;
+    margin-bottom: -40px;
+    position: relative;
+}
+
 #landing-section2,
 #landing-section4 {
 	background-color: white;
