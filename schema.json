@@ -1,0 +1,17 @@
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"url": "http://waterwork.co",
+		"logo": "http://waterwork.co/public/images/waterworks-logo.png",
+		"contactPoint": [{
+			"@type": "ContactPoint",
+			"telephone": "+57-300-355-6475",
+			"contactType": "customer support"
+		}, {
+			"@type": "ContactPoint",
+			"telephone": "+57-300-355-6475",
+			"contactType": "sales"
+		}],
+		"sameAs": [],
+		"name": "waterworks"
+	}
