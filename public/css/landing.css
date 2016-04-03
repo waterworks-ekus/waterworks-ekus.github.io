@@ -83,7 +83,7 @@ td .btn:hover {
 
 #landing-section1 .content {
 	position: absolute;
-	top: 100px;
+	top: 13%;
 	left: 0;
 	width: 50%;
 	background-color: rgba(0, 0, 0, 0.64);
@@ -167,7 +167,7 @@ i.large {
 
 /*phone with little screens*/
 
-@media screen and (max-width: 297px) {
+@media screen and (max-width: 305px) {
 	#landing-section1 h1 {
 		font-size: 1.6em;
 		text-shadow: 0px 2px 3px black;
