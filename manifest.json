@@ -4,7 +4,7 @@
 	"lang": "es",
 	"name": "Plataforma Waterworks",
 	"short_name": "waterworks",
-	"description":"Plataforma de diseño de plantas de tratamiento de agua residual Waterworks",
+	"description": "Plataforma de diseño de plantas de tratamiento de agua residual Waterworks",
 	"icons": [
 		{
 			"src": "\/android-chrome-36x36.png",
@@ -47,9 +47,8 @@
 	"theme_color": "#0d47a1",
 	"background_color": "#000000",
 	"display": "standalone",
-
-	 "developer": {
-    "name": "Fega",
-    "url": "http://fega.cienciambiente.com"
-  },
+	"developer": {
+		"name": "Fega",
+		"url": "http://fega.cienciambiente.com"
+	}
 }
