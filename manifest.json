@@ -4,8 +4,8 @@
 	"lang": "es",
 	"name": "Plataforma Waterworks",
 	"short_name": "waterworks",
-	"description":""
-	"icons": "Plataforma de diseño de plantas de tratamiento de agua residual Waterworks"
+	"description":"Plataforma de diseño de plantas de tratamiento de agua residual Waterworks",
+	"icons": [
 		{
 			"src": "\/android-chrome-36x36.png",
 			"sizes": "36x36",
