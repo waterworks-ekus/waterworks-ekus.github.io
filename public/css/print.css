@@ -1,15 +1,26 @@
-nav,footer,#widgetBar,.post-footer-line,.blog-pager,.feed-links{
-		display: none;
-	}
-	img{
-		max-width: 500px;
-	}
-	h1{
-		1.5em;
-	}
-	h2{
-		1.3em
-	}
-	h3,h4,h5{
-		1.1em
-	}
+nav,
+footer,
+#widgetBar,
+.post-footer-line,
+.blog-pager,
+.feed-links {
+	display: none;
+}
+
+img {
+	max-width: 500px;
+}
+
+h1 {
+	font-size:  1.5em;
+}
+
+h2 {
+	font-size: 	 1.3em;
+}
+
+h3,
+h4,
+h5 {
+	font-size:  1.1em;
+}
