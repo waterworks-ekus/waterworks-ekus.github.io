@@ -363,17 +363,24 @@ h2.blog-title {
 	font-size: 2em;
 	border-radius: 3px;
 }
-@media only screen and (min-width: 900px) {
-    h1.blog-title, h2.blog-title {
-      font-size: 1rem; }
+@media only screen and (max-width: 635px) {
+    h1.blog-title{
+      font-size: 3rem; }
+      h2.blog-title {
+      font-size: 1.5rem; }
  }
-@media only screen and (min-width: 600px) {
-    h1.blog-title, h2.blog-title {
-      font-size: 0.8rem; }
- }
- @media only screen and (min-width: 400px) {
-    h1.blog-title, h2.blog-title {
-      font-size: 0.5rem; }
+ @media only screen and (max-width: 635px) {
+    h1.blog-title{
+    	font-size: 2rem;
+    	padding: 0px;
+    	margin: 0px; }
+    h2.blog-title {
+    	font-size: 1.4rem;
+    	padding: 0px;
+    	margin: 0px; }
+	#main-blog {
+	    height: 260px;
+	}
  }
 
 .pedia-btn {
